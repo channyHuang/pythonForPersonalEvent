@@ -8,3 +8,6 @@ mp3SoundNotSame.py: Given a set of mp3 files, make the sounds of them in a same 
 saveImgAsPng.py: ...
 tab2tex.py: modify latex files???
 words.py: use to familiar with japanese words
+
+
+ps: binarys of python third tools in windows: https://www.lfd.uci.edu/~gohlke/pythonlibs
